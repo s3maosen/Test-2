@@ -1,0 +1,11 @@
+[workspace]
+authors = ["s3maosen <s3maosen@uni-bonn.de>"]
+channels = ["conda-forge"]
+name = "Test-2"
+platforms = ["win-64"]
+version = "0.1.0"
+
+[tasks]
+
+[dependencies]
+python = ">=3.14.0,<3.15"
